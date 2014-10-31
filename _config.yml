@@ -1,7 +1,6 @@
-name:          Code Guide by @mdo
-description:   Standards for developing flexible, durable, and sustainable HTML and CSS.
-url:           http://codeguide.co
-
+name:          RCC Web Style Guide
+description:   HTML/CSS standards and best practices
+url:           http://rcc-uchicago.github.io/web-style-guide/
 markdown:      rdiscount
 permalink:     pretty
 pygments:      true
